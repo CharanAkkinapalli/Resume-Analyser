@@ -1,0 +1,6 @@
+streamlit
+nltk
+spacy
+textstat
+PyPDF2
+scikit-learn
